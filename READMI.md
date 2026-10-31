@@ -1,7 +1,7 @@
 # Pertemuan 11 - Dictionary/Map
 
-**Nama:** Firgi Erviansyah  
-**NIM:** 2225250170 
+**Nama:** muahamad nurul bayan  
+**NIM:** 2225250115 
 **Kelas:** 3B
 
 ## Tujuan
